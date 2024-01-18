@@ -5,4 +5,3 @@ void s21_set_null_decimal(s21_decimal *dst) {
 }
 
 // указатель на структуру в качестве аргумента
-// g
